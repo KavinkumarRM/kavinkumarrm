@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Well-versed in designing, building, and implementing analytical and enterprise application using various machine learning tools.
+
 - 🌱 I am currently looking for job opportunities in the field of Machine Learning, Data Science and Artificial Intelligence. 🖥 🤖 🎒
 - 🐆 quick learner able to learn new technology in no time ⏳
 - 🏅 Statistics for life
