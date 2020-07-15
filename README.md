@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I am currently looking for job opportunities in the field of Machine Learning, Data Science and Artificial Intelligence. 🖥 🤖 🎒
+- 🐆 quick learner able to learn new technology in no time ⏳
+- 🏅 Statistics for life
+- 🔭 Fun Facts: Astonished by Astrophysics theories
+- 📫 Reach me at kavinkumarrm@gmail.com or https://www.linkedin.com/in/kavinkumarrm/
+- 🤔 would appreciate if could help me out on my Job search
+
 <!--
 **KavinkumarRM/kavinkumarrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
