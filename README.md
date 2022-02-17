@@ -6,9 +6,8 @@ Well-versed in designing, building, and implementing analytical and enterprise a
 - 💡 Innovator
 - 🐆 quick learner able to learn new technology in no time ⏳
 - 🏅 Statistics for life
-- 🔭 Fun Facts: love exploring Astrophysics theories
+- 🔭 Love exploring Astrophysics theories
 - 📫 Reach me at kavinkumarrm@gmail.com or https://www.linkedin.com/in/kavinkumarrm/
-- 🤔 would appreciate if could help me out on my Job search
 - ⚡ Portfolio - https://kavinkumarrm.pythonanywhere.com/
 <!--
 **KavinkumarRM/kavinkumarrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
